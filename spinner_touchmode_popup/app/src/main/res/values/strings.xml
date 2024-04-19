@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpinnerAlertPopupToastDemo</string>
+    <string-array name="countries">
+        <item>USA</item>
+        <item>Canada</item>
+        <item>UK</item>
+        <item>Germany</item>
+        <item>France</item>
+    </string-array>
+</resources>
